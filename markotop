@@ -285,27 +285,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1905809&extension=ts
 
-#EXTINF:-1============================DAZN ====================================
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" tvg-id="itzplay.id" group-title="TV SPORTS",FOOTBALL
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://tv.cloudcdn.me:80/live.ts?channelId=93742&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" tvg-id="itzplay.id" group-title="TV SPORTS",PREMIER LEAGUE 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://tv.cloudcdn.me:80/live.ts?channelId=93739&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png?utm_source=ms.wikipedia.org&utm_campaign=index&utm_content=original" tvg-id="itzplay.id" group-title="TV SPORTS",PREMIER LEAGUE 2
-http://tv.cloudcdn.me:80/live.ts?channelId=93740&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
-
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/mwtc9p1731234887.png" tvg-id="itzplay.id" group-title="TV SPORTS",GRANSTAND 
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://tv.cloudcdn.me:80/live.ts?channelId=93741&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
-
-
-
 
 #EXTINF:-1============================sports live====================================
 
