@@ -92,28 +92,28 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
-#EXTINF:-1 tvg-id="RTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJfRlMmuUrD46ssYE72IczjcktBJ0-Sv2qnL65TidQ6g&s=10" group-title="NASIONAL",RTV
+#EXTINF:-1 tvg-id="RTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJfRlMmuUrD46ssYE72IczjcktBJ0-Sv2qnL65TidQ6g&s=10" group-title="Indonesia Channels 2",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 
-#EXTINF:-1 tvg-id="MetroTV.my.id" tvg-name="MetroTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT03kxuhEHyVgLBeS7JbVFq8at2Ms53bO8-0YJAAw1Z-g&s=10" group-title="NASIONAL", METRO(DENS)
+#EXTINF:-1 tvg-id="MetroTV.my.id" tvg-name="MetroTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT03kxuhEHyVgLBeS7JbVFq8at2Ms53bO8-0YJAAw1Z-g&s=10" group-title="Indonesia Channels 2", METRO(DENS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/01.m3u8
 
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyGq4eT_-8R1vXCV2uwIUeyoi8l6f_dEI-Aa9eBegCiA&s=10" group-title="NASIONAL", KOMPAS(DENS)
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyGq4eT_-8R1vXCV2uwIUeyoi8l6f_dEI-Aa9eBegCiA&s=10" group-title="Indonesia Channels 2", KOMPAS(DENS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:124.0) Gecko/20100101 Firefox/124.0
 https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 
-#EXTINF:-1 tvg-id="MDTV.id" tvg-name="MDTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbe4OZZhDLEJ3yM--zoEA9wJxFrDHf_NJ5u4PeZpWmow&s=10" group-title="NASIONAL", MDTV 
+#EXTINF:-1 tvg-id="MDTV.id" tvg-name="MDTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbe4OZZhDLEJ3yM--zoEA9wJxFrDHf_NJ5u4PeZpWmow&s=10" group-title="Indonesia Channels 2", MDTV 
 #EXTVLCOPT:http-user-agent=MPF_Players/537.36
 http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 
-#EXTINF:-1 tvg-id="TVRI" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVKlgVeXTA9u09w-e697G7JroaQS3hu8x4kB1m7XE5Vg&s=10" group-title="NASIONAL",TVRI
+#EXTINF:-1 tvg-id="TVRI" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVKlgVeXTA9u09w-e697G7JroaQS3hu8x4kB1m7XE5Vg&s=10" group-title="Indonesia Channels 2",TVRI
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_2500000=10002-mp4a_96000_eng=20000.m3u8
 
-#EXTINF:-1 tvg-id="TVRI" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnFTfGOtmiOIxaEl8aiZcrM9hR8gibro6y5tAtzLBsDw&s=10" group-title="NASIONAL",SPORT
+#EXTINF:-1 tvg-id="TVRI" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnFTfGOtmiOIxaEl8aiZcrM9hR8gibro6y5tAtzLBsDw&s=10" group-title="Indonesia Channels 2",SPORT
 
 #EXTINF:-1,==============================HIBURAN=============================
 
