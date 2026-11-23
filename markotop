@@ -46,7 +46,7 @@ https://vidio123.mikrofast.web.id/vidio/204/index.mpd
 https://vidio123.mikrofast.web.id/vidio/205/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoiYMyQGASfLQP3vPjDJBxQKYXq-0sDVQWeOyUQ1mecA&s=10" group-title="NASIONAL", MOJI (DENS)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoiYMyQGASfLQP3vPjDJBxQKYXq-0sDVQWeOyUQ1mecA&s=10" group-title="Indonesia Channels 2", MOJI (DENS)
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
