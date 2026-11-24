@@ -347,6 +347,18 @@ http://tv.cloudcdn.me:80/live.ts?channelId=93740&uid=10223&deviceMac=00:1A:79:07
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/mwtc9p1731234887.png" tvg-id="itzplay.id" group-title="sports live",GRANSTAND 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 http://tv.cloudcdn.me:80/live.ts?channelId=93741&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFNHwlzrsrAXmbr7naJSZLatqUmbWrg_M_JzUj3dx0MwlGq4CUAvCnEco&s=10" group-title="sports live", SKY SPORT - EPL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://www.tvnewsroom.co.uk/wp-content/uploads/2016/03/Sky-Sports-Mix.jpg" group-title="sports live", SKY SPORT - MIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd
 ===================================================================================
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwWxq3j5i_yi08YBaShp_pIX7_ifMLZnuf-YHBrCi4gg&s=10" group-title="live", 🔴live.1
