@@ -344,6 +344,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=93742&uid=10223&deviceMac=00:1A:79:07
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png?utm_source=ms.wikipedia.org&utm_campaign=index&utm_content=original" tvg-id="itzplay.id" group-title="sports live",PREMIER LEAGUE 2
 http://tv.cloudcdn.me:80/live.ts?channelId=93740&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
 
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/mwtc9p1731234887.png" tvg-id="itzplay.id" group-title="sports live",GRANSTAND 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+http://tv.cloudcdn.me:80/live.ts?channelId=93741&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
 ===================================================================================
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwWxq3j5i_yi08YBaShp_pIX7_ifMLZnuf-YHBrCi4gg&s=10" group-title="live", 🔴live.1
